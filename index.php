@@ -25,15 +25,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 login-sec">
-                <h2 class="text-center">Login Now</h2>
+                <h2 class="text-center">Login Form</h2>
                 <form class="login-form">
                     <div class="form-group">
-                        <label for="exampleInputEmail1" class="text-uppercase">Username</label>
+                        <label for="exampleInputEmail1" class="text-uppercase">Usuário</label>
                         <input type="text" class="form-control" placeholder="">
 
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputPassword1" class="text-uppercase">Password</label>
+                        <label for="exampleInputPassword1" class="text-uppercase">Senha</label>
                         <input type="password" class="form-control" placeholder="">
                     </div>
 
@@ -41,13 +41,13 @@
                     <div class="form-check">
                         <label class="form-check-label">
                             <input type="checkbox" class="form-check-input">
-                            <small>Remember Me</small>
+                            <small>Lembrar de mim</small>
                         </label>
-                        <button type="submit" class="btn btn-login float-right">Submit</button>
+                        <button type="submit" class="btn btn-login float-right">Enviar</button>
                     </div>
 
                 </form>
-                <div class="copy-text">Created with <i class="fa fa-heart"></i> by <a href="http://grafreez.com">Grafreez.com</a></div>
+                <div class="copy-text">Criado <i class="fa fa-heart"></i> por <a href="https://miguelsantisteban.blogspot.com/">Miguel Santisteban</a></div>
             </div>
             <div class="col-md-8 banner-sec">
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -76,7 +76,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block img-fluid" src="ImagensProjeto/3-%205472x3648px.jpg" alt="First slide">
+                            <img class="d-block img-fluid" src="ImagensProjeto/3-5472x3648px.jpg" alt="First slide">
                             <div class="carousel-caption d-none d-md-block">
                                 <div class="banner-text">
                                     <h2>Miguel Santisteban</h2>
